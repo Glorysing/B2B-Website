@@ -1,3 +1,9 @@
+<div align="right">
+
+**English** · [中文](README.zh.md)
+
+</div>
+
 # B2B Cosmetic Manufacturer Websites
 
 **Two production B2B websites built from scratch — custom WordPress themes, zero page builders.**

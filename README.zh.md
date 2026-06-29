@@ -1,3 +1,9 @@
+<div align="right">
+
+[English](README.md) · **中文**
+
+</div>
+
 # B2B 化妆品企业网站
 
 **两个生产级 B2B 企业网站，完全手写 WordPress 主题，零页面构建器。**
